@@ -12,7 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // initial commit comment
+        print("the view did load")
+        
     }
 
 
